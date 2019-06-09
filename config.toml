@@ -1,0 +1,12 @@
+[KubeNotify]
+localMode = true
+configPath = ""
+
+[slack]
+hookURL     = ""
+token	    = ""
+channel     = ""
+iconEmoji   = ""
+authUser    = ""
+notifyUsers = [""]
+text        = "Test message"
